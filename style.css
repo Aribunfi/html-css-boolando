@@ -20,13 +20,26 @@ header {
     position: relative;
 }
 
+.discount-badge-red {
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    background-color: red;
+    color: white;
+    padding: 3px;
+    margin-bottom: 50px;
+}
+
 .discount-badge {
     position: absolute;
     left: 0;
+    bottom: 0;
     background-color: green;
     color: white;
     padding: 3px;
+    margin-bottom: 50px;
 }
+
 
 footer {
     background-color: gray;
